@@ -172,5 +172,10 @@ footer{
 }
 /* End editorial stage directions */
 
-/* Text */
-/* Text */
+/* Page breaks after part headers */
+#part-2 header,
+#part-3 header,
+#part-5 header{
+	break-after: page;
+}
+/* End page breaks after part headers */
