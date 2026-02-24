@@ -54,6 +54,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13084</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.208046</dc:source>
+		<meta property="se:production-notes">"Shortlived" has been left unhyphenated as Shaw is using it almost as a neologism.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Back_to_Methuselah</meta>
